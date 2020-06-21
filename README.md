@@ -16,7 +16,7 @@ Live Demo: You can see this live on my site now: http://coreysnyder.me/test-page
 ## How to use
 Drop this line into your site-footer section in the ghost admin panel
 ```html
-  <script async src="https://cdn.jsdelivr.net/gh/Torqu3Wr3nch/fluidbox-ghost-blog-plugin@0.1.1a/fluidbox-ghost-blog-plugin.min.js"></script>
+  <script async src="https://cdn.jsdelivr.net/gh/jbfriedrich/fluidbox-ghost-blog-plugin@1.2/fluidbox-ghost-blog-plugin.min.js"></script>
 ```
 
 ### Customization
@@ -33,4 +33,3 @@ Currently you can customize two different things by adding this above that scrip
 
 ## Versioning 
 Updates to Ghost Blogging Platform which change the HTML affecting images might break this integration. To combat this I will release versions which align with the versions of Ghost.  
-
